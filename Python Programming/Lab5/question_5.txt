@@ -1,0 +1,1 @@
+Define a function that reads the file question_5.txt and stores in a dictionary the number of words that start with the same letter. The letter should be the key and the count of the words that start with that letter should be the value. Use the dictionary values to print a histogram ordered alphabetically where each line will contain the corresponding number of letters.
